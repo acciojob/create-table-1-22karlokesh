@@ -7,7 +7,7 @@ function insert_Row() {
 	let cell1 = newRow.insertCell();
 	let cell2 = newRow.insertCell();
 
-	cell1.innerHTML="Row3 cell1";
-	cell2.innerHTML="Row3 cell2"
+	cell1.innerHTML="New Cell1";
+	cell2.innerHTML="New Cell2"
 	
 }
