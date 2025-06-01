@@ -10,5 +10,4 @@ function insert_Row() {
 	cell1.innerHTML="Row3 cell1";
 	cell2.innerHTML="Row3 cell2"
 	
-  
 }
